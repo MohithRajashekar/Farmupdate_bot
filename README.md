@@ -166,12 +166,6 @@ Here are some powerful ideas you can build next:
 
 ---
 
-## 🧩 Want the Blueprint?
-
-DM me if you’d like the **ready-to-import Make.com blueprint** to save time.
-
----
-
 ## 💬 Credits
 
 Built with ❤️ using:
@@ -182,7 +176,7 @@ Built with ❤️ using:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 Include screenshots of:
 - Telegram message
